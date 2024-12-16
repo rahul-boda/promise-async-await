@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "usersname": "Rahul",
+      "password": "Rahul@555"
+    },
+    {
+      "id": "2",
+      "username": "Vinesh",
+      "password": "Vinesh@123"
+    },
+    {
+      "id": "5fb8",
+      "username": "move",
+      "email": "move@gmail.com",
+      "password": "move@123"
+    },
+    {
+      "id": "71ad",
+      "username": "rahul",
+      "email": "rahulbittu555@gmail.com",
+      "password": "rahul@555"
+    }
+  ],
+  "posts": [
+    {
+      "likes": "10",
+      "comments": "good post",
+      "share": "1o",
+      "id": "208a"
+    },
+    {
+      "likes": "15",
+      "comments": "nice",
+      "share": "20",
+      "id": "ac2c"
+    }
+  ]
+}
